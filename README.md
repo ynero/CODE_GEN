@@ -1,2 +1,2 @@
-# CPP_CODE_GEN
+# CODE_GEN
 Generate CPP code
